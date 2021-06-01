@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a project using Java Spring Boot and Vue js 
 - 📫 You can contact me by: marvintranquilo@gmail.com
 
-- More About me
+# More About me
 - I'm passionned for code langage, computer science, philosophy and openmind thinking.
 
 <!---
